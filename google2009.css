@@ -279,4 +279,15 @@
     .ezO2md {
         max-width: 1028px !important;
     }
+    
+    #p4ecBe {
+        position: absolute;
+        top: 0px;
+        text-align: right !important;
+        max-width: 100% !important;
+        width: 100% !important;
+        display: block !important;
+        padding-top: 4px !important;
+        right: 2px
+    }
 }

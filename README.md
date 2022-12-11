@@ -9,3 +9,7 @@ Apply the user agent for Google above and use a extension (like Stylus) to apply
 
 # Warning
 Code is really messy.
+
+# Screenshots
+![Homepage](2022-12-11-013308_1234x854_scrot.png "Homepage")
+![Search page](2022-12-11-013511_1234x854_scrot.png "Search page")

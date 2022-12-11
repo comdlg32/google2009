@@ -56,6 +56,11 @@
         padding-top: 4px !important;
         right: 8px
     }
+    
+    #BK8Sp {
+        text-transform: lowercase;
+    }
+    
 }
 
 @-moz-document url-prefix("https://www.google.com/search") {

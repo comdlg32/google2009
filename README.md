@@ -1,7 +1,7 @@
 # Google 2009 theme
-Theme Google (WAP/XHTML Mobile version) to look like 2009 Google
+Theme Google (XHTML Mobile version) to look like 2009 Google
 
-# How to activate WAP/XHTML Mobile version of Google?
+# How to activate XHTML Mobile version of Google?
 Use the following user agent for Google: ```Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)```
 
 # How do I use this?

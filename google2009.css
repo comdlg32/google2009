@@ -34,7 +34,7 @@
         padding-bottom: 1px !important;
     }
 
-    form div input:not(#lst-ib) {
+    form div input[type=submit][name=btnG]:not(#lst-ib) {
         font-size: 11pt;
         font-family: Arial;
         padding-top: 3px;

@@ -69,6 +69,18 @@
     #BK8Sp {
         text-transform: lowercase;
     }
+
+    /* 404 */
+    span#logo {
+        display: block;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        background: url(https://www.google.com/intl/en_ALL/images/nav_logo.png) no-repeat;
+        background-position: 0px -26px;
+        width: 150px;
+        height: 54px;
+        padding-left: 150px;
+    }
 }
 
 @-moz-document url-prefix("https://www.google.com/search") {

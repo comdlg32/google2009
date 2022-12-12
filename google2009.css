@@ -29,7 +29,7 @@
         font-family: Arial;
         font-size: 12pt;
         width: 531px !important;
-        margin-bottom: 5px !important;
+        margin-bottom: 6px !important;
         padding-top: 2px !important;
         padding-bottom: 1px !important;
     }
@@ -37,6 +37,9 @@
     form div input:not(#lst-ib) {
         font-size: 11pt;
         font-family: Arial;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        margin-bottom: 40px;
     }
 
     body {

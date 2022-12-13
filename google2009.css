@@ -376,8 +376,10 @@
         position: relative !important;
         margin-left: 150px !important;
         bottom: 15px !important;
+        min-width: max-content !important;
+        max-width: max-content !important;
+        width: max-content !important;
     }
-
 
     div[style="display:inline"] img[style="border:0 none;vertical-align:middle"] {
         margin-top: 5px !important;

@@ -12,11 +12,11 @@ Code is really messy.
 
 # Screenshots
 Homepage  
-![Homepage](homepage-new.png "Homepage")
+![Homepage](homepage-new.png "Homepage")  
 Search page  
-![Search page](searchpage-new.png "Search page")
+![Search page](searchpage-new.png "Search page")  
 Preferences page (far from done)  
-![Preferences page](preferences.png "Preferences page")
+![Preferences page](preferences.png "Preferences page")  
 
 
 # References used

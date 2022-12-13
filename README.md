@@ -11,12 +11,12 @@ Apply the user agent for Google above and use a extension (like Stylus) to apply
 Code is really messy.
 
 # Screenshots
-Homepage
+Homepage  
 ![Homepage](homepage-new.png "Homepage")
-Search page
+Search page  
 ![Search page](searchpage-new.png "Search page")
-Preferences page (far from done)
-![Search page](preferences.png "preferences")
+Preferences page (far from done)  
+![Preferences page](preferences.png "Preferences page")
 
 
 # References used

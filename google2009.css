@@ -45,6 +45,7 @@
     body {
         margin: 0px;
         margin-top: 1px;
+        background-color: white !important;
     }
 
     #p4ecBe {
@@ -137,6 +138,7 @@
     .QIqI7 {
         all: revert;
         font-weight: bold;
+        color: black;
     }
 
     table.euZec td {
@@ -316,6 +318,8 @@
     .ezO2md {
         max-width: 1028px !important;
     }
+    
+
 }
 
 @-moz-document url-prefix("https://www.google.com/imgres") {

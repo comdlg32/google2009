@@ -82,6 +82,10 @@
         height: 54px;
         padding-left: 150px;
     }
+
+    div table[width="100%"] tr td[style="text-align:left"][width="80%"] a:last-of-type {
+        text-transform: lowercase !important;
+    }
 }
 
 @-moz-document url-prefix("https://www.google.com/search") {
@@ -318,8 +322,9 @@
     .ezO2md {
         max-width: 1028px !important;
     }
-    
 
+
+    .frGj1b {}
 }
 
 @-moz-document url-prefix("https://www.google.com/imgres") {

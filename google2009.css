@@ -24,6 +24,22 @@
         margin-top: 0px;
     }
 
+    div table a:last-of-type {
+        position: relative;
+    }
+
+    div table tr td[style="text-align:left"] a:last-of-type::after {
+        bottom: 0;
+        color: currentColor;
+        content: '▼';
+        position: absolute;
+        transform: translate(-100%, 0);
+        background-color: white !important;
+        font-size: 8pt !important;
+        margin-left: 4px !important;
+        padding-left: 4px
+    }
+
 
     input#lst-ib {
         font-family: Arial;

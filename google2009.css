@@ -129,6 +129,11 @@
 
     .xB0fq {
         all: revert;
+        font-family: Arial !important;
+        font-size: 11pt !important;
+        padding-top: 3px !important;
+        padding-bottom: 3px !important;
+        margin-top: -2px !important;
     }
 
     .O1ePr {
@@ -154,7 +159,11 @@
     }
 
     .MhzMZd {
+        margin-left: 5px !important;
         all: revert;
+        font-family: Arial !important;
+        font-size: 17px !important;
+        margin-top: -2px !important;
     }
 
     * {
@@ -166,13 +175,14 @@
     }
 
     .MhzMZd {
-        width: 405px !important;
+        width: 399px !important;
     }
 
     .M7pB2 {
         margin-top: 15px !important;
         border-top: 1px solid #6b90da !important;
         background: #f0f7f9;
+        margin-bottom: 16px !important;
     }
 
     .M7pB2 a {
@@ -181,6 +191,8 @@
 
     .FbhRzb {
         height: revert;
+        margin-top: 8px !important;
+        margin-bottom: 24px !important;
     }
     .cvifge {
         margin-top: 10px !important;
@@ -249,6 +261,7 @@
 
     body {
         max-width: 1024px !important;
+        margin-left: 8px !important;
     }
 
     .TuS8Ad * {
@@ -276,6 +289,8 @@
         width: 103px;
         height: 38px;
         padding-left: 103px;
+        margin-left: -6px !important;
+        margin-right: 2px !important;
     }
 
     * br:not(.ezO2md br) {

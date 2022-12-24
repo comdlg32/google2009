@@ -102,6 +102,12 @@
     div table[width="100%"] tr td[style="text-align:left"][width="80%"] a:last-of-type {
         text-transform: lowercase !important;
     }
+    
+    a:link,
+    a:active,
+    a:visited {
+        color: #0000CC !important;
+    }
 }
 
 @-moz-document url-prefix("https://www.google.com/search") {
@@ -142,6 +148,7 @@
     a {
         all: revert;
     }
+
 
     .xB0fq {
         all: revert;
@@ -272,9 +279,13 @@
 
     .fuLhoc span.fYyStc {
         color: green !important;
-        text-decoration: none !important;
+        font-size: 9.5pt;
     }
 
+    .fuLhoc span.CVA68e.qXLe6d.fuLhoc.ZWRArf {
+        font-size: 12pt !important;
+    }
+    
     body {
         max-width: 1024px !important;
         margin-left: 8px !important;

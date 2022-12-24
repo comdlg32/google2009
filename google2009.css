@@ -292,6 +292,7 @@
     }
     
     body {
+        min-width: 1024px !important;
         max-width: 1024px !important;
         margin-left: 8px !important;
     }

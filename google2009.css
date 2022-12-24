@@ -145,10 +145,14 @@
         all: revert;
     }
 
-    a {
+    a:not(div.ezO2md a.fuLhoc.ZWRArf) {
         all: revert;
     }
 
+    div.ezO2md a.fuLhoc.ZWRArf .CVA68e {
+        border-bottom: 1px solid currentColor !important;
+        max-width: max-content !important;
+    }
 
     .xB0fq {
         all: revert;
@@ -280,6 +284,7 @@
     .fuLhoc span.fYyStc {
         color: green !important;
         font-size: 9.5pt;
+        text-decoration-color: white !important;
     }
 
     .fuLhoc span.CVA68e.qXLe6d.fuLhoc.ZWRArf {

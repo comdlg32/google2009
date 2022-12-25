@@ -5,7 +5,7 @@
 @description    Brings back 2009 Google on WAP Google version
 @author         techsalt on winclassic, toiletflusher on github, WindowsUserOG on reddit.
 ==/UserStyle== */
-@-moz-document url-prefix("https://www.google.com") {
+@-moz-document url-prefix("https://www.google.com/?"), url-prefix("https://www.google.com/preferences"), url-prefix("https://www.google.com/webhp"), url-prefix("https://www.google.com/imghp"), url("https://www.google.com/") {
     img#hplogo {
         margin-top: 20px !important;
         margin-bottom: 20px !important;

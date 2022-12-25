@@ -22,3 +22,13 @@ Preferences page (far from done)
 # References used
 https://oldgoogle.neocities.org/2009  
 http://web.archive.org/web/20090901000000*/www.google.com
+
+# NsFAQ
+**Does this work with other languages?**  
+Yes, however RTL languages seem to break a bit.  
+  
+  **Why?**
+  Why not?
+  
+  **The theme is broken. Please fix it.**
+  Report the issue on GitHub issues.

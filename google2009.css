@@ -385,6 +385,21 @@ url("https://www.google.com") {
     .Dks9wf .KZhhub .udTCfd {
         padding: 0px;
     }
+    
+    div.Dks9wf td.udTCfd div div span.qXLe6d.FrIlee span.fYyStc.YVIcad:first-of-type {
+        color: black !important;
+        display: inline;
+    }
+    
+    div.Dks9wf td.udTCfd div div span.qXLe6d.FrIlee span.fYyStc.YVIcad:after {
+        content: ' ...';
+        font-weight: bold;
+    }
+    
+    div.Dks9wf td.udTCfd div div span.qXLe6d.FrIlee span.fYyStc.YVIcad {
+        display: none;
+    }
+    
 }
 
 @-moz-document url-prefix("https://www.google.com/imgres") {

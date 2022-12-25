@@ -5,7 +5,13 @@
 @description    Brings back 2009 Google on WAP Google version
 @author         techsalt on winclassic, toiletflusher on github, WindowsUserOG on reddit.
 ==/UserStyle== */
-@-moz-document url-prefix("https://www.google.com/?"), url-prefix("https://www.google.com/preferences"), url-prefix("https://www.google.com/webhp"), url-prefix("https://www.google.com/imghp"), url("https://www.google.com/"), url-prefix("https://www.google.com/search"), url("https://www.google.com") {
+@-moz-document url-prefix("https://www.google.com/?"),
+url-prefix("https://www.google.com/preferences"),
+url-prefix("https://www.google.com/webhp"),
+url-prefix("https://www.google.com/imghp"),
+url("https://www.google.com/"),
+url-prefix("https://www.google.com/search"),
+url("https://www.google.com") {
     img#hplogo {
         margin-top: 20px !important;
         margin-bottom: 20px !important;
@@ -102,7 +108,7 @@
     div table[width="100%"] tr td[style="text-align:left"][width="80%"] a:last-of-type {
         text-transform: lowercase !important;
     }
-    
+
     a:link,
     a:active,
     a:visited {
@@ -290,7 +296,7 @@
     .fuLhoc span.CVA68e.qXLe6d.fuLhoc.ZWRArf {
         font-size: 12pt !important;
     }
-    
+
     body {
         min-width: 1024px !important;
         max-width: 1024px !important;

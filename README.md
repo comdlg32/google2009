@@ -26,9 +26,9 @@ http://web.archive.org/web/20090901000000*/www.google.com
 # NsFAQ
 **Does this work with other languages?**  
 Yes, however RTL languages seem to break a bit.  
+
+**Why?**  
+Why not?  
   
-  **Why?**
-  Why not?
-  
-  **The theme is broken. Please fix it.**
-  Report the issue on GitHub issues.
+**The theme is broken. Please fix it.**  
+Report the issue on GitHub issues.

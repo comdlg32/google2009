@@ -378,7 +378,13 @@ url("https://www.google.com") {
     }
 
 
-    .frGj1b {}
+    .Dks9wf .KZhhub {
+        display: contents;
+    }
+    
+    .Dks9wf .KZhhub .udTCfd {
+        padding: 0px;
+    }
 }
 
 @-moz-document url-prefix("https://www.google.com/imgres") {

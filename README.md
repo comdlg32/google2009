@@ -9,6 +9,13 @@ On Firefox(-based) browsers: https://addons.mozilla.org/en-US/firefox/addon/user
 On Chromium(-based) browsers, there is a similar addon if you look it up.  
 **Make sure to set it up that the user agent only applies to Google!**
 
+# How do I make it only apply on Google and how do I even use the extension? (Firefox)
+Click the extension's icon (
+<img src="https://addons.mozilla.org/user-media/addon_icons/853/853731-64.png" alt="User Agent String Switcher icon" width="16" height="16">
+) then click Options. Check the ratiobox "White-List Mode" and put "www.google.com" inside it. Scroll down and click "Save". Right click the extension's icon (
+<img src="https://addons.mozilla.org/user-media/addon_icons/853/853731-64.png" alt="User Agent String Switcher icon" width="16" height="16">
+) and then click "Switch to "white-list" mode". It should change the user agent.
+
 # Recommended
 https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/  
 This is to prevent from sites thinking you are visiting on Windows CE (because of Google's tracking redirect)

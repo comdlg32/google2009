@@ -4,6 +4,11 @@ Theme Google (XHTML Mobile version) to look like 2009 Google
 # How to activate XHTML Mobile version of Google?
 Use the following user agent for Google: ```Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)```
 
+# How do I change my user agent?
+On Firefox(-based) browsers: https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher  
+On Chromium(-based) browsers, there is a similar addon if you look it up.  
+*Make sure to set it up that the user agent only applies to Google!*
+
 # Recommended
 https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/  
 This is to prevent from sites thinking you are visiting on Windows CE (because of Google's tracking redirect)

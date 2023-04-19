@@ -15,6 +15,7 @@ img#hplogo {
 	background: url(https://www.google.com/intl/en_ALL/images/logo.gif) no-repeat;
 	width: 276px;
 	height: 110px;
+	padding-bottom: 110px !important;
 	padding-left: 276px;
 }
 

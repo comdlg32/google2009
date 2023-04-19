@@ -7,7 +7,7 @@ Use the following user agent for Google: ```Mozilla/4.0 (compatible; MSIE 6.0; W
 # How do I change my user agent?
 On Firefox(-based) browsers: https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher  
 On Chromium(-based) browsers, there is a similar addon if you look it up.  
-*Make sure to set it up that the user agent only applies to Google!*
+**Make sure to set it up that the user agent only applies to Google!**
 
 # Recommended
 https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/  

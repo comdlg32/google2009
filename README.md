@@ -12,7 +12,7 @@ On Chromium(-based) browsers, there is a similar addon if you look it up.
 # How do I make it only apply on Google and how do I even use the extension? (Firefox)
 Click the extension's icon (
 <img src="https://addons.mozilla.org/user-media/addon_icons/853/853731-64.png" alt="User Agent String Switcher icon" width="16" height="16">
-) then on userAgent put the useragent above (```Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11)```) then click Options. Check the ratiobox "White-List Mode" and put "www.google.com" inside it. Scroll down and click "Save". Right click the extension's icon (
+) then on userAgent put the useragent above (```Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11```) then click Options. Check the ratiobox "White-List Mode" and put "www.google.com" inside it. Scroll down and click "Save". Right click the extension's icon (
 <img src="https://addons.mozilla.org/user-media/addon_icons/853/853731-64.png" alt="User Agent String Switcher icon" width="16" height="16">
 ) and then click "Switch to "white-list" mode". It should change the user agent.
 

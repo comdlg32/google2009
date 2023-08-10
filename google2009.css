@@ -19,7 +19,7 @@ img#hplogo {
 	padding-left: 276px;
 }
 
-div table:first-of-type {
+div table:first-of-type:not(div:last-of-type *) {
 	border-bottom: 1px solid #c9d7f1;
 	padding-left: 5px;
 	padding-bottom: 2px;
@@ -30,7 +30,7 @@ div table a:last-of-type {
 	position: relative;
 }
 
-div table tr td[style="text-align:left"] a:last-of-type::after {
+div table tr td[style="text-align:left"] a:last-of-type:not(html[dir="rtl"] *)::after {
 	bottom: 0;
 	color: currentColor;
 	content: '▼';
@@ -40,6 +40,23 @@ div table tr td[style="text-align:left"] a:last-of-type::after {
 	font-size: 8pt !important;
 	margin-left: 4px !important;
 	padding-left: 4px
+}
+
+html[dir="rtl"] div table tr td[style="text-align:left"] a:last-of-type::before {
+	bottom: 0;
+	color: currentColor;
+	content: '▼';
+	position: absolute;
+	transform: translate(-100%, 0);
+	background-color: inherit !important;
+	font-size: 8pt !important;
+	margin-right: 4px !important;
+	padding-right: 4px !important;
+}
+
+html[dir="rtl"] div table tr td[style="text-align:left"] {
+	text-align: right !important;
+	padding-right: 4px !important;
 }
 
 div table tr td[style="text-align:left"] a:last-of-type,
@@ -89,7 +106,7 @@ div div a {
 	font-size: 10pt !important;
 }
 
-#p4ecBe {
+#p4ecBe:not(html[dir="rtl"] *) {
 	position: absolute;
 	top: 0px;
 	text-align: right !important;
@@ -97,7 +114,18 @@ div div a {
 	width: max-content !important;
 	display: block !important;
 	padding-top: 3px !important;
-	right: 8px
+	right: 8px !important;
+}
+
+html[dir="rtl"] #p4ecBe {
+	position: absolute;
+	top: 0px;
+	text-align: left !important;
+	max-width: 100% !important;
+	width: max-content !important;
+	display: block !important;
+	padding-top: 3px !important;
+	left: 8px !important;
 }
 
 #BK8Sp {
@@ -149,14 +177,18 @@ body {
 	table-layout: fixed;
 	width: 100%
 }
+
 .frGj1b {
 	display: block;
 	padding: 8px 0 8px 0;
 	width: 100%
 }
 
-* {
-	border: revert !important;
+.FbhRzb,.ezO2md,.M7pB2,.uZgmoc,.euZec,.cvifge,.VeHcBf {
+ border-left:initial !important;
+ border-right:initial !important;
+ border-top:initial !important;
+ border-bottom:initial !important;
 }
 
 EY24We table.euZec td {
@@ -165,11 +197,11 @@ EY24We table.euZec td {
 }
 
 .euZec {
-	all: revert;
+	width: initial;
 }
 
 a:not(div.ezO2md a.fuLhoc.ZWRArf) {
-	all: revert;
+	text-decoration: underline !important;
 }
 
 div.ezO2md a.fuLhoc.ZWRArf .CVA68e {
@@ -178,7 +210,6 @@ div.ezO2md a.fuLhoc.ZWRArf .CVA68e {
 }
 
 .xB0fq {
-	all: revert;
 	font-family: Arial !important;
 	font-size: 11pt !important;
 	padding-top: 3px !important;
@@ -236,12 +267,8 @@ table.euZec td {
 	margin-bottom: 16px !important;
 }
 
-.M7pB2 a {
-	all: revert;
-}
-
 .FbhRzb {
-	height: revert;
+	height: initial;
 	margin-top: 8px !important;
 	margin-bottom: 24px !important;
 }
@@ -323,11 +350,11 @@ body {
 }
 
 .TuS8Ad * {
-	color: revert !important;
+	color: initial !important;
 }
 
 a.M3vVJe {
-	color: revert !important;
+	color: blue !important;
 }
 
 .uZgmoc {
@@ -419,9 +446,6 @@ div.Dks9wf td.udTCfd div div span.qXLe6d.FrIlee span.fYyStc.YVIcad:after {
 .nQvrDb .mnTahd .lIMUZd div .EnarA {
 	min-width: 250px;
 }
-
-
-
 }
 
 @-moz-document url-prefix("https://www.google.com/imgres") {

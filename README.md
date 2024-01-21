@@ -31,7 +31,7 @@ Homepage
 ![image](https://user-images.githubusercontent.com/80153347/209447907-22ed7098-d5ac-4f5b-9a19-75c70d357fef.png)  
 Search page  
 ![image](https://user-images.githubusercontent.com/80153347/209447926-99a94fc6-f483-430c-bfa9-10c2954948a3.png)
-Preferences page (far from done)  
+---Preferences page (far from done)--- Not skinned anymore since the preferences page got updated.
 ![Preferences page](preferences.png "Preferences page")  
 
 

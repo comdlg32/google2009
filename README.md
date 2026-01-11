@@ -1,3 +1,6 @@
+# !!!NOTE!!!
+# THIS THEME WON'T WORK ANYMORE SINCE GOOGLE GOT RID OF OLD BROWSER SUPPORT, I CAN'T DO ANYTHING ABOUT IT
+
 # Google 2009 theme
 Theme Google (XHTML Mobile version) to look like 2009 Google
 
